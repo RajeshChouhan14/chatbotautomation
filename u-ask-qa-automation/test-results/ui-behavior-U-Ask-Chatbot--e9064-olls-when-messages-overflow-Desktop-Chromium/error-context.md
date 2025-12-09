@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - heading "Index of /" [level=1] [ref=e2]
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "(drw-rw-rw-) 09-Dec-2025 10:21 node_modules/" [ref=e5]:
+        - cell [ref=e6]
+        - cell "(drw-rw-rw-)" [ref=e8]:
+          - code [ref=e9]: (drw-rw-rw-)
+        - cell "09-Dec-2025 10:21" [ref=e10]
+        - cell [ref=e11]:
+          - code
+        - cell "node_modules/" [ref=e12]:
+          - link "node_modules/" [ref=e13] [cursor=pointer]:
+            - /url: ./node_modules/
+      - row "(drw-rw-rw-) 09-Dec-2025 10:15 playwright-report/" [ref=e14]:
+        - cell [ref=e15]
+        - cell "(drw-rw-rw-)" [ref=e17]:
+          - code [ref=e18]: (drw-rw-rw-)
+        - cell "09-Dec-2025 10:15" [ref=e19]
+        - cell [ref=e20]:
+          - code
+        - cell "playwright-report/" [ref=e21]:
+          - link "playwright-report/" [ref=e22] [cursor=pointer]:
+            - /url: ./playwright-report/
+      - row "(drw-rw-rw-) 09-Dec-2025 10:29 test-results/" [ref=e23]:
+        - cell [ref=e24]
+        - cell "(drw-rw-rw-)" [ref=e26]:
+          - code [ref=e27]: (drw-rw-rw-)
+        - cell "09-Dec-2025 10:29" [ref=e28]
+        - cell [ref=e29]:
+          - code
+        - cell "test-results/" [ref=e30]:
+          - link "test-results/" [ref=e31] [cursor=pointer]:
+            - /url: ./test-results/
+      - row "(drw-rw-rw-) 09-Dec-2025 09:34 tests/" [ref=e32]:
+        - cell [ref=e33]
+        - cell "(drw-rw-rw-)" [ref=e35]:
+          - code [ref=e36]: (drw-rw-rw-)
+        - cell "09-Dec-2025 09:34" [ref=e37]
+        - cell [ref=e38]:
+          - code
+        - cell "tests/" [ref=e39]:
+          - link "tests/" [ref=e40] [cursor=pointer]:
+            - /url: ./tests/
+      - row "(drw-rw-rw-) 09-Dec-2025 09:46 u-ask-mock-chatbot/" [ref=e41]:
+        - cell [ref=e42]
+        - cell "(drw-rw-rw-)" [ref=e44]:
+          - code [ref=e45]: (drw-rw-rw-)
+        - cell "09-Dec-2025 09:46" [ref=e46]
+        - cell [ref=e47]:
+          - code
+        - cell "u-ask-mock-chatbot/" [ref=e48]:
+          - link "u-ask-mock-chatbot/" [ref=e49] [cursor=pointer]:
+            - /url: ./u-ask-mock-chatbot/
+      - row "(drw-rw-rw-) 09-Dec-2025 09:34 utils/" [ref=e50]:
+        - cell [ref=e51]
+        - cell "(drw-rw-rw-)" [ref=e53]:
+          - code [ref=e54]: (drw-rw-rw-)
+        - cell "09-Dec-2025 09:34" [ref=e55]
+        - cell [ref=e56]:
+          - code
+        - cell "utils/" [ref=e57]:
+          - link "utils/" [ref=e58] [cursor=pointer]:
+            - /url: ./utils/
+      - row "(-rw-rw-rw-) 09-Dec-2025 10:21 3.5k package-lock.json" [ref=e59]:
+        - cell [ref=e60]
+        - cell "(-rw-rw-rw-)" [ref=e62]:
+          - code [ref=e63]: (-rw-rw-rw-)
+        - cell "09-Dec-2025 10:21" [ref=e64]
+        - cell "3.5k" [ref=e65]:
+          - code [ref=e66]: 3.5k
+        - cell "package-lock.json" [ref=e67]:
+          - link "package-lock.json" [ref=e68] [cursor=pointer]:
+            - /url: ./package-lock.json
+      - row "(-rw-rw-rw-) 09-Dec-2025 10:21 635B package.json" [ref=e69]:
+        - cell [ref=e70]
+        - cell "(-rw-rw-rw-)" [ref=e72]:
+          - code [ref=e73]: (-rw-rw-rw-)
+        - cell "09-Dec-2025 10:21" [ref=e74]
+        - cell "635B" [ref=e75]:
+          - code [ref=e76]: 635B
+        - cell "package.json" [ref=e77]:
+          - link "package.json" [ref=e78] [cursor=pointer]:
+            - /url: ./package.json
+      - row "(-rw-rw-rw-) 09-Dec-2025 09:35 752B playwright.config.ts" [ref=e79]:
+        - cell [ref=e80]
+        - cell "(-rw-rw-rw-)" [ref=e82]:
+          - code [ref=e83]: (-rw-rw-rw-)
+        - cell "09-Dec-2025 09:35" [ref=e84]
+        - cell "752B" [ref=e85]:
+          - code [ref=e86]: 752B
+        - cell "playwright.config.ts" [ref=e87]:
+          - link "playwright.config.ts" [ref=e88] [cursor=pointer]:
+            - /url: ./playwright.config.ts
+      - row "(-rw-rw-rw-) 09-Dec-2025 09:36 636B README.md" [ref=e89]:
+        - cell [ref=e90]
+        - cell "(-rw-rw-rw-)" [ref=e92]:
+          - code [ref=e93]: (-rw-rw-rw-)
+        - cell "09-Dec-2025 09:36" [ref=e94]
+        - cell "636B" [ref=e95]:
+          - code [ref=e96]: 636B
+        - cell "README.md" [ref=e97]:
+          - link "README.md" [ref=e98] [cursor=pointer]:
+            - /url: ./README.md
+      - row "(-rw-rw-rw-) 09-Dec-2025 09:35 2.4k test-data.json" [ref=e99]:
+        - cell [ref=e100]
+        - cell "(-rw-rw-rw-)" [ref=e102]:
+          - code [ref=e103]: (-rw-rw-rw-)
+        - cell "09-Dec-2025 09:35" [ref=e104]
+        - cell "2.4k" [ref=e105]:
+          - code [ref=e106]: 2.4k
+        - cell "test-data.json" [ref=e107]:
+          - link "test-data.json" [ref=e108] [cursor=pointer]:
+            - /url: ./test-data.json
+  - generic [ref=e109]:
+    - text: Node.js v24.11.1/
+    - link "http-server" [ref=e110] [cursor=pointer]:
+      - /url: https://github.com/http-party/http-server
+    - text: server running @ 127.0.0.1:8080
+```

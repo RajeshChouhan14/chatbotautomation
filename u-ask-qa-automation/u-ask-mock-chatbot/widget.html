@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>U-Ask Mock Widget</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="chat-root">
+    <header>
+      <h2>U-Ask Mock Chatbot</h2>
+    </header>
+    <main data-testid="messages-container" id="messages"></main>
+    <div id="typing" data-testid="typing-indicator" class="hidden">Typing...</div>
+    <footer>
+      <textarea data-testid="chat-input" id="chat-input" aria-label="Chat input"></textarea>
+      <button data-testid="send-button" id="send-button">Send</button>
+      <button data-testid="open-chat" aria-label="U-Ask Chat" style="display:none;">Open</button>
+    </footer>
+  </div>
+  <script src="chatbot.js"></script>
+</body>
+</html>
